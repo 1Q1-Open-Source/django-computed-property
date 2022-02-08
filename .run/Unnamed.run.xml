@@ -1,0 +1,23 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="Tox" factoryName="Tox" nameIsGenerated="true">
+    <module name="django-computed-property" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="TOX_SKIP_ENV" value=".*postgres.*" />
+    </envs>
+    <option name="SDK_HOME" value="$USER_HOME$/Library/Caches/pypoetry/virtualenvs/django-computed-property-pmCiN-1P-py3.8/bin/python3.8" />
+    <option name="WORKING_DIRECTORY" value="" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    <arguments>
+      <array />
+    </arguments>
+    <runOnlyEnvs>
+      <array />
+    </runOnlyEnvs>
+    <method v="2" />
+  </configuration>
+</component>
